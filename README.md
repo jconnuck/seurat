@@ -1,4 +1,4 @@
-##Seurat
-####Reimagining the Museum Online
+#Seurat
+###Reimagining the Museum Online
 
-####By John Connuck
+###By John Connuck
